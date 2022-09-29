@@ -1,6 +1,3 @@
-
-# <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRf_6CJOUW6_rCGwlcpC7Um_9qumADa14caw&usqp=CAU" alt="ES" style="zoom:25%;" /></center>
-
 # Sejam Bem-vindos ao meu Repositório :books:
 
 ### Introdução
